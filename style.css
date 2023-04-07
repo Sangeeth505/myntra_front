@@ -1,0 +1,71 @@
+.header {
+	min-height: 60px;
+	max-height: 62px;
+}
+
+.header-menu {
+	position: relative;
+}
+
+.header-menu ul {
+	text-decoration: none;
+}
+
+.header-menu ul li {
+	position: relative;
+    flex-wrap: wrap;
+    text-decoration: none;
+    width: 82px;
+    float: left;
+    font-weight: 600;
+    list-style: none;
+}
+.up{
+    position: relative;
+    left: 187px;
+    bottom: 63px;
+    width: 53px;
+
+}
+.im{
+    position: relative;
+    width: 36px;
+    height: 29px;
+    left: -30px;
+    bottom: 5px;
+}
+
+.ser{
+    position: relative;
+    left: -1px;
+    bottom: 34px;
+    background-color: #dbdbdb;
+    border-width: thin;
+}
+
+.ima{
+    position: relative;
+    width: 182px;
+    height: 38px;
+    left: 279px;
+    bottom: 99px;
+}
+.banner{
+    min-height: 60px;
+	max-height: 62px;
+}
+.banner-area{
+    position: relative;
+}
+.banner-area ul{
+    text-decoration: none;
+}
+.banner-area ul li{
+    position: relative;
+    flex-wrap: wrap;
+    text-decoration: none;
+    width: 100px;
+    float: left;
+    font-weight: 600;
+    list-style: none;
+}
